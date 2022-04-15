@@ -328,7 +328,7 @@ li {
 
 /* ### Footer ### */
 footer {
-  display: grid;
+  display: flex;
   align-items: center;
   padding: 80px 0 2px 0;
 }
