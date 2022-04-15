@@ -5,7 +5,7 @@
 
 > A portofolio webpage that displays all the projects I've been working on recently. 
 
-![screenshot]()
+![screenshot](ss.png)
 
 
 
@@ -44,7 +44,8 @@ Copy All Project files and run using VSCODE. HTML can be viewed in browser.
 
 
 ## Authors
-
+- GitHub: [@zhadier](https://github.com/zhadier)
+- LinkedIn: [Zeeshan Haider](https://www.linkedin.com/in/zhadier39/)
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome and highly encouraged!
